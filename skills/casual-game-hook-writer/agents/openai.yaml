@@ -1,0 +1,4 @@
+interface:
+  display_name: "休闲手游 Hook 编剧"
+  short_description: "面向海外休闲手游，从创意、脚本或提示词优化 Hook，解释设计依据，并按需接视频制作"
+  default_prompt: "使用 $casual-game-hook-writer，根据我的 idea、原稿或视频提示词，先补问关键信息，再创作或优化；选定后输出视频提示词或按我的选择制作视频。"
